@@ -33,8 +33,7 @@ As the model performs relatively well on unseen data, the Disease and Treatment 
 - Data Cleaning
 - Feature Engineering
 - EDA
-- Prepare Train and Test Set
-- Modeling.ipynb</ul>
+- Prepare Train and Test Set</ul>
 
 - Modeling.ipynb<ul>
 - Import Libraries
